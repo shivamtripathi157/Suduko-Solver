@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491326322 source:h:\3rdsemm\sudokusolver 3.0\main.c
+	<conio.h>
+	<stdio.h>
+
+1491325948 source:h:\3rdsemm\sudokusolver 3.0\nonetsolver.c
+
